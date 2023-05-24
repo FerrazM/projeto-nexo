@@ -1,0 +1,12 @@
+{
+  "name": "nexo",
+  "version": "1.0.0",
+  "description": "Sistema de controle financeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
